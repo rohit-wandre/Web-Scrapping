@@ -1,0 +1,8 @@
+{
+  "schema_name": "scrapped_data",
+  "table_name": "lazada_scrapped",
+  "server": "leap-server.database.windows.net",
+  "database": "leap-db",
+  "username": "leapserveradmin",
+  "password": "Admin@123"
+}
